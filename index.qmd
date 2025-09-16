@@ -1,6 +1,6 @@
 ---
 title: "Ijeoma's First shareable documents with Quarto"
-subtitle: "Create open-source tutorials, onboarding docs, and much more"
+subtitle: "Ijeoma Create open-source tutorials, onboarding docs, and much more"
 ---
 
 ## Welcome {#welcome}
